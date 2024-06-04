@@ -4,3 +4,4 @@ print("Opened the file in Notepad. The command is 'notepad fileName.extension'."
 print("----------------------------------------------------------------------------")
 print("Making changes after tracking the file in git.")
 Print("Changing to check git diff.")
+print("Changing after hard reset.")
