@@ -5,3 +5,5 @@ print("-------------------------------------------------------------------------
 print("Making changes after tracking the file in git.")
 Print("Changing to check git diff.")
 print("Changing after hard reset.")
+print("----------------------------------------------------------------------------")
+print("Changing in remote repo.")
